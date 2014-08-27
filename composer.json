@@ -1,6 +1,6 @@
 {
-    "name":         "silverstripe/mink-selenium2-driver",
-    "description":  "SilverStripe fork of Selenium2 (WebDriver) driver for Mink framework",
+    "name":         "maxqa/webdriver",
+    "description":  "maxqa/webdriver fork of Selenium2 (WebDriver) driver for Mink framework",
     "keywords":     ["selenium", "webdriver", "javascript", "ajax", "testing", "browser"],
     "homepage":     "http://mink.behat.org/",
     "type":         "mink-driver",
